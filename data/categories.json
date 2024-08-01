@@ -1,0 +1,15 @@
+[
+    {
+        "id":1,
+        "name":"kadın"
+    },
+    {
+        "id":2,
+        "name":"erkek"
+    },
+    {
+        "id":3,
+        "name":"home"
+    }
+
+]

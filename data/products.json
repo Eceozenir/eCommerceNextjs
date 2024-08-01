@@ -1,0 +1,147 @@
+[
+    {
+        "id":1,
+        "img":"oversizeTisort.jpeg",
+        "name":"Oversize Tişört",
+        "price":329,
+        "description":"Açık gri kırçıllı",
+        "category":1
+    },
+    {
+        "id":2,
+        "img":"ribanalıUst.jpeg",
+        "name":"Ribanalı Kolsuz Üst",
+        "price":279,
+        "description":"Rahat ve Şık",
+        "category":1
+    },
+    {
+        "id":3,
+        "img":"bedeneOturanTisort.jpeg",
+        "name":"Bedene Oturan Tişört",
+        "price":329,
+        "description":"Bedeni tam sarar",
+        "category":1
+    },
+    {
+        "id":4,
+        "img":"vatkaliTisort.jpeg",
+        "name":"Vatkalı Tişört Elbise",
+        "price":799,
+        "description":"Vatkalı haki yeşili elbise",
+        "category":1
+    },
+    {
+        "id":5,
+        "img":"dansPantolonu.jpeg",
+        "name":"Dans Pantolonu",
+        "price":569,
+        "description":"leopar desenli dans pantolonu",
+        "category":1
+    },
+    {
+        "id":6,
+        "img":"tekOmuzluUst.jpeg",
+        "name":"Tek Omuzlu ve Drapeli Üst",
+        "price":649,
+        "description":"Tek omuzlu modeliyle tarzınıza tarz katacak",
+        "category":1
+    },
+    {
+        "id":7,
+        "img":"genisPantolon.jpeg",
+        "name":"Geniş Pull-On Pantolon",
+        "price":759,
+        "description":"Üzerinizde yokmuş gibi hissedin",
+        "category":1
+    },
+    {
+        "id":8,
+        "img":"balonKollu.jpeg",
+        "name":"Balon Kollu Elbise",
+        "price":1119,
+        "description":"Balon kollar ve çiçek deseniyle inanılmaz görünüm",
+        "category":1
+    },
+    {
+        "id":9,
+        "img":"regularFitErkek.jpeg",
+        "name":"Regular Fit Tekstüre Gömlek",
+        "price":1359,
+        "description":"Modeli rengi ve duruşuyla ayrı bir tarz",
+        "category":2
+    },
+    {
+        "id":10,
+        "img":"regularFitTisort.jpeg",
+        "name":"Regular Fit Tişört",
+        "price":299,
+        "description":"Basic Tişört",
+        "category":2
+    },
+    {
+        "id":11,
+        "img":"looseFitTisort.jpeg",
+        "name":"Loose Fit Baskılı Tişört",
+        "price":349,
+        "description":"Basic Tişört",
+        "category":2
+    },
+    {
+        "id":12,
+        "img":"kargoSporSort.jpeg",
+        "name":"Kargo Spor Şortu",
+        "price":1129,
+        "description":"DryMove şortunun spordaki rahatlığına inanamayacaksınız",
+        "category":2
+    },
+    {
+        "id":13,
+        "img":"kargoPantolon.jpeg",
+        "name":"Loose Fit Kargo Pantolon",
+        "price":1899,
+        "description":"Vintage modeliyle tarzınıza tarz katacak",
+        "category":2
+    },
+    {
+        "id":14,
+        "img":"ribanaliUst.jpeg",
+        "name":"Slim Fit Ribanalı Kolsuz Üst",
+        "price":379,
+        "description":"Slim fit tüm bedeni sarar",
+        "category":2
+    },
+    {
+        "id":15,
+        "img":"vazo.webp",
+        "name":"3'lü Mini Stoneware Vazo",
+        "price":569,
+        "description":"Vintage modeliyle tarzınıza tarz katacak",
+        "category":3
+    },
+    {
+        "id":16,
+        "img":"sepet.webp",
+        "name":"Su Çayırı Sepet",
+        "price":499,
+        "description":"Vintage modeliyle tarzınıza tarz katacak",
+        "category":3
+    },
+    {
+        "id":17,
+        "img":"nevresim.jpeg",
+        "name":"Çift Kişilik Muslin Nevresim Takımı",
+        "price":2999,
+        "description":"Rengiyle modeliyle yatak odanız şenlenecek",
+        "category":3
+    },
+    {
+        "id":18,
+        "img":"perde.jpeg",
+        "name":"2'li Lyocell Karışımlı Hazır Perde",
+        "price":1999,
+        "description":"Vintage modeliyle tarzınıza tarz katacak",
+        "category":3
+    }
+
+]
